@@ -7,14 +7,15 @@
 
 # In[7]:
 
-
+variable=456123
+print(variable)
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
 
-
+print(type(8.5))
 
 
 
@@ -22,7 +23,7 @@
 
 # In[8]:
 
-
+print(type(variable))
 
 
 
